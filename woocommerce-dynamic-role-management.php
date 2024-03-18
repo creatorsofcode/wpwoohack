@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: WooCommerce Dynamic Role Management
- * Plugin URI: http://yourwebsite.com
+ * Plugin URI: comingsoon
  * Description: Dynamically manages user roles based on WooCommerce product purchases.
  * Version: 1.0
- * Author: Your Name
- * Author URI: http://yourwebsite.com
+ * Author: KoodiMeister
+ * Author URI: http://creatorsofcode.com
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
